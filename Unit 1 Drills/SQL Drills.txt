@@ -45,6 +45,31 @@ JOIN rainy_days r ON r.rainy_day = DATE(t.start_date)
 group by DATE(t.start_date)
 order by longest_trip desc
 
+AirBnB Challenge:
+-----------------
+--What's the most expensive listing? What else can you tell me about the listing?
+select * from sfo_listings order by price desc LIMIT 1
+--This listing is of type home/apt and is avilable only for 18 days. Minimum length of stay required is 2 nights
+
+--What neighborhoods seem to be the most popular?
+select neighbourhood, count(*) As count_of_listings 
+from sfo_listings 
+group by neighbourhood 
+order by count_of_listings 
+desc LIMIT 1
+--Mission
+
+--What time of year is the cheapest time to go to San Francisco? What about the busiest?
+with cal_info as
+(select sl.id, min(sc.price) as min_price, max(sc.price) as max_price from sfo_listings sl
+JOIN sfo_calendar sc ON sc.listing_id = sl.id
+where CAST(replace(TRIM('$' FROM sc.price),',','') As DECIMAL) > 0 AND extract(year from calender_date) = '2018'
+group by sl.id)
+select min(sc.calender_date) As min_date, max(sc.calender_date) as max_date 
+from sfo_calendar sc
+JOIN cal_info cc ON cc.id = sc.listing_id AND cc.min_price = sc.price
+where min_price <> max_price AND extract(year from sc.calender_date) = '2018';
+
 
 
 
