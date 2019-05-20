@@ -1,0 +1,27 @@
+Does a new supplement help people sleep better?
+Two versions: a placebo and the new supplement
+Sample: two random similar groups of people (age, sleep patterns)
+Hypothesis: The new supplements aids in better sleep
+outcome(s): if a significant number of people from the supplement group finds the supplement working, we would conclude that the new supplement is effective.
+Other measured variables: average number of extended sleep hours after using the supplement
+
+Will new uniforms help a gym's business?
+Two versions:
+Sample:
+Hypothesis:
+outcome(s):
+Other measured variables:
+
+Will a new homepage improve my online exotic pet rental business?
+Two versions:
+Sample:
+Hypothesis:
+outcome(s):
+Other measured variables:
+
+If I put 'please read' in the email subject will more people read my emails?
+Two versions:
+Sample:
+Hypothesis:
+outcome(s):
+Other measured variables:
