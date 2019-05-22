@@ -1,7 +1,7 @@
 PMID/PMCID,Publisher,Journal title,Article title,COST (£) charged to Wellcome (inc VAT when charged)
-NA,CUP,Psychological Medicine,Reduced parahippocampal cortical thickness in subjects at ultra-high risk for psychosis,£0.00
+NA,CUP,Psychological Medicine,Re/duced parahippocampal cortical thickness in subjects at ultra-high risk for psychosis,£0.00£
 PMC3679557,ACS,Biomacromolecules,Structural characterization of a Model Gram-negative bacterial surface using lipopolysaccharides from rough strains of escherichia coli,£2381.04
-23043264  PMC3506128 ,ACS,J Med Chem,"Fumaroylamino-4,5-epoxymorphinans and related opioids with irreversible ? opioid receptor antagonist effects.",£642.56
+23043264  PMC3506128 ,ACS,J Med Chem,"Fumaroylamino-4,5-epoxymorphinans and related opioids with irreversible ? opioid receptor antagonist effects.","£64,2.56"
 23438330 PMC3646402,ACS,J Med Chem,Orvinols with mixed kappa/mu opioid receptor agonist activity.,£669.64
 23438216 PMC3601604 ,ACS,J Org Chem,Regioselective opening of myo-inositol orthoesters: mechanism and synthetic utility.,£685.88
 PMC3579457,ACS,Journal of Medicinal Chemistry,Comparative Structural and Functional Studies of 4-(Thiazol-5-yl)-2-(phenylamino) pyrimidine-5-carbonitrile CDK9 inhibitors suggest the basis for Isotype Slectivity,£2392.20
@@ -206,7 +206,7 @@ PMC3826327 ,Association for Research in Vision & Ophthalmology,Journal of Vision
 PMID:23971731,BioMed Central,Arthritis Research & Therapy,Transcriptomic signatures in cartilage ageing,£1608.00
 22738332 PMC3381227,BioMed Central,BioMed Central,Long-term impact of systemic bacterial infection on the cerebral vasculature and microglia. ,£1350.00
 PMC 3533981,BioMed central,BMC  Public Health,Geographical access to care at birth n Ghana: a barrier to safe motherhood,£1536.00
-PMC3398262,BioMed Central,BMC Biology,Detailed interrogation of trypanosome cell biology via differential organelle staining and automated image analysis,1674$
+PMC3398262,BioMed Central,BMC Biology,Detailed interrogation of trypanosome cell biology via differential organelle staining and automated image analysis,1674.00$
 PMID: 24020915 PMC3846689 ,BioMed Central,BMC Genetics,The physical capability of community-based mend and women from a British cohort: the European Prospective Investigation into Cancer (EPIC)-Norfolk study,1375.8$
 PMID:23442822,BioMed Central,BMC Genome Biology,Patterns of prokaryotic lateral gene transfers affecting parasitic microbial eukaryotes,2010$
 PMC2843621,BioMed Central,BMC Genomics,Trichomonas vaginalis vast BspA-like gene family: evidence for functional diversity from sructural organization and transcriptomics,1204.38$
