@@ -6,22 +6,22 @@ outcome(s): if a significant number of people from the supplement group finds th
 Other measured variables: average number of extended sleep hours after using the supplement
 
 Will new uniforms help a gym's business?
-Two versions:
-Sample:
-Hypothesis:
-outcome(s):
-Other measured variables:
+Two versions: existing uniforms and new uniforms
+Sample: two sample gym customers during the same time and same age group/gender
+Hypothesis: Expecting to see more number of people from the sample group to attend gym after the employees start to use new uniforms.
+outcome(s): Check if changing the uniforms helped in retaining customers for longer periods than the previous uniforms
+Other measured variables: Age group of customers that are attracted to new uniforms.
 
 Will a new homepage improve my online exotic pet rental business?
-Two versions:
-Sample:
-Hypothesis:
-outcome(s):
-Other measured variables:
+Two versions: Original homepage and a new home page
+Sample: two sample customer groups that are similar in interests and rental patterns
+Hypothesis: New homepage would increase the online exotic pet business
+outcome(s): Track the increase in business with the new homepage compared to the original one
+Other measured variables: check the number of webiste visitors before and after homepage change 
 
 If I put 'please read' in the email subject will more people read my emails?
-Two versions:
-Sample:
-Hypothesis:
-outcome(s):
-Other measured variables:
+Two versions: Email with no text 'please read' and email with text 'please read'
+Sample: randomly send one of the two versions of the email to a subset of users
+Hypothesis: 'Please read' text in the email subject would make people ready the email
+outcome(s): track the number of clicks each version generated and check if 'please read' text is making a difference
+Other measured variables: Response time for opening the email
