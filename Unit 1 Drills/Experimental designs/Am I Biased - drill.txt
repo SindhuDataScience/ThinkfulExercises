@@ -1,0 +1,11 @@
+-You're testing advertising emails for a bathing suit company and you test one version of the email in February and the other in May.
+Ans: Bias lies in selecting different months for testing. Change in seasons will have an effect.
+
+-You open a clinic to treat anxiety and find that the people who visit show a higher rate of anxiety than the general population.
+Ans: Need to consider what sector of people are we targeting in our sample. The sample of people that come to the clinic will be highly biased than a sample from the other crowd
+
+-You launch a new ad billboard based campaign and see an increase in website visits in the first week.
+Ans:Have to give more time for testing than 1 week. Also, we need to compare the visits with previours year's data for the same timeframe.
+
+-You launch a loyalty program but see no change in visits in the first week.
+Ans: How is it promoted and what population is targeted for the tests?
