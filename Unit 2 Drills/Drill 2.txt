@@ -1,0 +1,15 @@
+A data scientist sees variables as categorical (also called nominal) or continuous, and within the continuous group subdivided into ordinal, interval, and ratio.
+
+cntry - categorical
+idno - categorical
+year - categorical  
+tvtot - categorical 
+ppltrst - categorical  
+pplfair - categorical  
+pplhlp - categorical
+happy - categorical 
+sclmeet - categorical  
+sclact - categorical 
+gndr - categorical 
+agea - continuous (Ratio)
+partner - categorical  
