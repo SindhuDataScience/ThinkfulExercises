@@ -4,7 +4,7 @@ When to use surveys? State whether a survey would be the best option for answeri
 Ans: Yes. (Rating)
 
 2. A grocery store wants to know how much people like strawberry, chocolate, and vanilla ice cream. 
-Ans: No (can check the previous transactions)
+Ans: No (can check the previous transactions) - Survey is good
 
 
 3. Trojan wants to know whether their condoms are more popular among straight people or gay people. 
